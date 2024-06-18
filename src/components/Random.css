@@ -1,0 +1,31 @@
+.random-box{
+    width: 40%;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+    margin-top: 30px;
+    border:2px solid black;
+    border-radius: 10px;
+    justify-content: space-around;
+}
+.random-box-head{
+    font-size: medium;
+    font:bold;
+    font-weight: 700;
+    
+    text-decoration: underline;
+}
+.random-gen-btn{
+    width: 85%;
+    height: 10%;
+    background-color: yellowgreen;
+    font:bold;
+    font-weight: 500;
+    border-radius: 8px;
+}
+.gif-img{
+    width: 300px;
+    height: 220px;
+}
